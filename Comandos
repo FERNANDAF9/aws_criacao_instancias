@@ -1,4 +1,4 @@
-#Configuração da AWS
+# Configuração da AWS
 aws configure
 
 # List
