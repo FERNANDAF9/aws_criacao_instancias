@@ -1,3 +1,6 @@
+#Configuração da AWS
+aws configure
+
 # List
 aws ec2 describe-instances
 
